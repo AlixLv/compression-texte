@@ -4,7 +4,7 @@ Programme permettant de partir d'une phrase complète et de la transformer de di
 
 ## Objectifs à atteindre via cet exercice
 
-- continuer à m'entrainer avec le langage Python
+- entrainement avec le langage Python
 - manipuler les structures de listes et dictionnaires propres à Python
 - exploiter des imbrications de boucles pour itérer sur les listes et dictionnaires.
 
